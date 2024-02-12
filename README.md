@@ -23,19 +23,27 @@ Before you begin, ensure you have the following installed:
 Follow these steps to get your development environment running:
 
 1. Clone the repository to your local machine:
+```
 git clone https://github.com/tobiazamo/investment-calculator.git
+```
 
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+```
 cd investment-calculator
+```
 
-3. Install the necessary packages:
+4. Install the necessary packages:
+```
 npm install
+```
 
-4. Start the development server:
+5. Start the development server:
+```
 npm run dev
+```
 
-5. Open your browser in localhost to view the app.
+6. Open your browser in localhost to view the app.
 
 ## Usage
 
